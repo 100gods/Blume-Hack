@@ -27,7 +27,7 @@
     "core-js": "^2.5.4",
     "highcharts": "^6.1.1",
     "lodash": "^4.17.10",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "rxjs": "^6.0.0-beta.1",
     "rxjs-compat": "^6.0.0-beta.1",
     "zone.js": "^0.8.26"
